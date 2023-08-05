@@ -34,6 +34,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   The screenshot of the Virtual Machine created in Azure. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
   ![image](https://github.com/waleoyecc/osticket-prereqs/assets/140360882/3d03ccff-afda-49de-b62f-fa2f71b5548b)
   ![image](https://github.com/waleoyecc/osticket-prereqs/assets/140360882/641b3194-3892-4063-98d3-ebf05d05d01c)
+  ![image](https://github.com/waleoyecc/osticket-prereqs/assets/140360882/ffccb624-4b72-4309-afa4-42bd7780c465)
+
 
 
 
