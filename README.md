@@ -22,14 +22,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Item 1 Created Virtual Machines in Azure with Domain Controller and Client Machine
+- Item 2 Logged in to Remote Desktop Computers with IPaddresses
+- Item 3 Set IIS for OS Ticket to run with
+- Item 4 Set the OS Ticket
+- Item 5 Logged into the OS Ticket as admins and agents
+. <h2>Installation Steps</h2>
+. ![image](https://github.com/waleoyecc/osticket-prereqs/assets/140360882/fcbdd0fc-c821-40ec-9c0c-72d05de99a91)
+
+  ![image](https://github.com/waleoyecc/osticket-prereqs/assets/140360882/55601be9-d5e8-4013-99b6-65ceab67a0f9)
+  The screenshot of the Virtual Machine created in Azure. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  ![image](https://github.com/waleoyecc/osticket-prereqs/assets/140360882/3d03ccff-afda-49de-b62f-fa2f71b5548b)
+  ![image](https://github.com/waleoyecc/osticket-prereqs/assets/140360882/641b3194-3892-4063-98d3-ebf05d05d01c)
+
+
 
 <h2>Installation Steps</h2>
-
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -47,9 +55,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<im
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit,
 </p>
 <br />
