@@ -32,18 +32,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   ![image](https://github.com/waleoyecc/osticket-prereqs/assets/140360882/55601be9-d5e8-4013-99b6-65ceab67a0f9)
   
   The screenshot of the Virtual Machine created in Azure. The IPaddress from the virual machine was used to log into the Remote Desktop Computer.
+
   
   ![image](https://github.com/waleoyecc/osticket-prereqs/assets/140360882/3d03ccff-afda-49de-b62f-fa2f71b5548b)
   
   The setting up of IIS for the OS Ticket to run with.
+
   
   ![image](https://github.com/waleoyecc/osticket-prereqs/assets/140360882/641b3194-3892-4063-98d3-ebf05d05d01c)
   
   The IIS set up before the lunch for the OS Ticket.
+
   
   ![image](https://github.com/waleoyecc/osticket-prereqs/assets/140360882/4e3fa485-17f2-4bdf-bc7f-076707551143)
 
 The recommended features needed were enabled for OS Ticket to run.
+
 
 ![image](https://github.com/waleoyecc/osticket-prereqs/assets/140360882/d6962ffd-3532-4320-a5b0-cb55ef1d9800)
 
